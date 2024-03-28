@@ -1,13 +1,13 @@
 {
-  "name": " inshal.cli-number-guessing",
-  "version": "2.1.0",
+  "name": "@inshal123/inshal-cli-number-guessing",
+  "version": "3.1.1",
   "description": "this is cli base number guessing game",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
   },
-  "bin": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
